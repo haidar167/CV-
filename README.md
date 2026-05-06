@@ -5,9 +5,9 @@
 ## Personal Information
 
 - **Name:** Haidar Ali
-- **Email:** [your.email@example.com]
-- **Phone:** [Your Phone Number]
-- **Location:** [City, Country]
+- **Email:** haidar904455@gmail.com
+- **Phone:** 03326111076
+- **Location:** Pakistan
 - **LinkedIn:** [linkedin.com/in/yourprofile]
 - **GitHub:** [github.com/yourprofile]
 
