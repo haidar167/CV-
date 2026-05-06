@@ -1,4 +1,4 @@
-# Curriculum Vitae
+# Haidar Ali - Curriculum Vitae
 
 ![Profile](./images.jpg)
 
@@ -6,65 +6,76 @@
 
 - **Name:** Haidar Ali
 - **Email:** haidar904455@gmail.com
-- **Phone:** 03326111076
-- **Location:** Pakistan
-- **LinkedIn:** [linkedin.com/in/yourprofile]
-- **GitHub:** [github.com/yourprofile]
+- **Phone:** 0332 6111076
+- **Location:** Landi Kotal, Loi Shalman, Pakistan
+- **LinkedIn:** [linkedin.com/in/haidarali]
+- **GitHub:** [github.com/haidar167]
 
 ## Professional Summary
 
-Brief overview of your professional background, key skills, and career objectives. Highlight your most important achievements and what makes you a valuable candidate.
+I'm a dedicated BS IT student at Agriculture University of Peshawar with a strong foundation in web development. Currently focused on mastering HTML, CSS, and Python with aspirations to become a machine learning engineer in Pakistan. I have hands-on experience building web pages, portfolios, and interactive tools. Known for strong communication skills and a commitment to continuous learning.
 
 ## Experience
 
-### [Job Title]
-**[Company Name]** | [Start Date] – [End Date]
-- Achievement or responsibility
-- Key accomplishment with measurable results
-- Contribution to team or project
-
-### [Job Title]
-**[Company Name]** | [Start Date] – [End Date]
-- Achievement or responsibility
-- Key accomplishment with measurable results
-- Contribution to team or project
+### Web Developer
+**Self-Employed / Learning** | 2024 – Present
+- Developed multiple portfolio websites and web pages
+- Built HTML-based calculators and interactive applications
+- Implemented responsive designs using HTML and CSS
+- Gained practical experience in front-end development fundamentals
 
 ## Education
 
-### [Degree Name]
-**[University/Institution Name]** | [Graduation Year]
-- Major: [Field of Study]
-- GPA: [Your GPA]
-- Relevant coursework or honors
+### Bachelor of Science in Information Technology (BS IT)
+**Agriculture University of Peshawar** | Expected 2026
+- Current Semester: 4th Semester
+- Field of Study: Information Technology
+- Relevant Coursework: Web Development, Programming
+
+### Intermediate (Computer Science)
+**Global Degree College Peshawar** | 2022 – 2024
+- Marks Obtained: 1090
+- Specialized in Computer Science
+
+### Matriculation
+**Al Madina Public High School** | 2020 – 2022
+- Marks Obtained: 830
 
 ## Skills
 
-- **Technical Skills:** [List relevant technical skills]
-- **Languages:** [Programming languages, spoken languages]
-- **Tools & Frameworks:** [Software, frameworks, platforms]
-- **Soft Skills:** [Communication, leadership, problem-solving, etc.]
-
-## Certifications & Awards
-
-- **[Certification Name]** – [Issuing Organization] | [Year]
-- **[Award Name]** – [Organization] | [Year]
+- **Programming Languages:** Python, HTML, CSS
+- **Web Development:** Front-end Development, Web Page Design, Portfolio Development
+- **Soft Skills:** Communication, Problem-Solving, Learning Ability
+- **Tools & Technologies:** HTML, CSS, Text Editors
 
 ## Projects
 
-### [Project Name]
-**[Description]** | [Year]
-- [Key feature or achievement]
-- [Technology stack used]
-- [Link to project repository/demo if applicable]
+### HTML Calculator
+**Interactive calculator built with HTML** | 2024
+- Implemented basic arithmetic operations
+- Created user-friendly interface
+- Technology Stack: HTML, CSS
+
+### Portfolio Websites
+**Multiple portfolio web pages** | 2024
+- Showcased personal projects and skills
+- Responsive design implementation
+- Technology Stack: HTML, CSS
+
+### Web Pages
+**Various web page projects** | 2024
+- Personal and educational web pages
+- Practice with HTML structure and styling
 
 ## Languages
 
-- [Language] – [Proficiency Level]
-- [Language] – [Proficiency Level]
+- **English** – Conversational/Professional
+- **Urdu** – Fluent
+- **Pashto** – Native Speaker
 
-## Additional Information
+## Career Objectives
 
-- [Volunteer work, publications, interests, or other relevant information]
+Aspiring to become a skilled Machine Learning Engineer in Pakistan. Currently building a strong foundation in web development while expanding knowledge in Python and computer science fundamentals. Committed to continuous learning and professional growth in the field of information technology.
 
 ---
 
