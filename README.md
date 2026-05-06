@@ -4,7 +4,7 @@
 
 ## Personal Information
 
-- **Name:** [Your Full Name]
+- **Name:** Haidar Ali
 - **Email:** [your.email@example.com]
 - **Phone:** [Your Phone Number]
 - **Location:** [City, Country]
